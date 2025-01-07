@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **ThreeJS**
 
-- 👨‍💻 All of my projects are available at  [https://nathlowe.com/en](https://nathlowe.com/en)
+- 👨‍💻 All of my projects are available at  [https://nathlowe.com/en](https://nathlowe.com/en) & [https://vercel.com/nathlowes-projects](https://vercel.com/nathlowes-projects)
 
 - 📝 I regularly write articles on [https://dev.to/nathlowe](https://dev.to/nathlowe)
 
