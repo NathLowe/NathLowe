@@ -15,7 +15,7 @@
 
 - 📫 How to reach me **nathan@nathlowe.com**
 
-- 📄 Know about my experiences [https://nathlowe.com/resume.pdf](https://nathlowe.com/resume.pdf)
+- 📄 Know about my experiences [https://nathlowe.com/Nathan_Kouekam_Lowe_Resume_WebDev.pdf](https://nathlowe.com/Nathan_Kouekam_Lowe_Resume_WebDev.pdf)
 
 - ⚡ Fun fact **: I often challenge myself by writing as much code as possible before checking the render on the browser**
 
