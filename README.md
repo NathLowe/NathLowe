@@ -13,7 +13,7 @@
 
 - 💬 Ask me about **ReactJs, NextJs, Framer Motion, TailwindCSS**
 
-- 📫 How to reach me **nathanlowe04122001@gmail.com**
+- 📫 How to reach me **nathan@nathlowe.com**
 
 - 📄 Know about my experiences [https://nathlowe.com/resume.pdf](https://nathlowe.com/resume.pdf)
 
