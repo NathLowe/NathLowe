@@ -1,4 +1,4 @@
-[![MasterHead](https://i0.wp.com/plopdo.com/wp-content/uploads/2021/07/Screenshot-1.png)](https://portfolio-4ogbyukx7-nathlowe.vercel.app/en)
+[![MasterHead](https://user-images.githubusercontent.com/95478989/198955082-6e78ebb5-e1e4-49f9-8d32-6e5af3984dcd.gif)](https://nathlowe.com/en)
 <h1 align="center">Hi 👋, I'm Nathan K. Lowe</h1>
 <h3 align="center">React Frontend Web Developer | Next.js Specialist</h3>
 <img align="right" alt="Coding" width="400" src="https://i.gifer.com/5TMy.gif"/>
